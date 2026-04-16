@@ -6,11 +6,11 @@
 - figures/                          # Generated figures
 
 ## Reproducing Results
-Scalability (Fig. 3)
-python experiment1_scalability.py
+- Scalability (Fig. 3)
+- python experiment1_scalability.py
 
-Selective transmission (Fig. 4)
-python experiment2_selective_transmission.py
+- Selective transmission (Fig. 4)
+- python experiment2_selective_transmission.py
 
-Belief spread and dynamic adaptation (Fig. 5)
-python experiment3_dynamic_environment.py
+- Belief spread and dynamic adaptation (Fig. 5)
+- python experiment3_dynamic_environment.py
